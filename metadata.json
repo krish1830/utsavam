@@ -1,0 +1,6 @@
+{
+  "name": "Utsavam - Mini Brass & Bronze Sacred Idols",
+  "description": "Handcrafted miniature solid brass and antique bronze Hindu god idols crafted specifically for car dashboards, pooja rooms, and office desks with secure payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
